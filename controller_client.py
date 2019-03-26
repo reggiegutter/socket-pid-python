@@ -1,4 +1,4 @@
-"""Sensor Client for PID plant"""
+"""Comparator Client for PID plant"""
 
 import socket
 import sys
